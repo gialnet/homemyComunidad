@@ -10,12 +10,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="856">
-              <caret line="833" column="68" selection-start-line="833" selection-start-column="68" selection-end-line="833" selection-end-column="68" />
+            <state relative-caret-position="358">
+              <caret line="164" column="50" selection-start-line="164" selection-start-column="50" selection-end-line="164" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -28,6 +28,7 @@
       <find>casti</find>
       <find>62</find>
       <find>69</find>
+      <find>cle</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -57,7 +58,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -69,8 +70,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -79,7 +80,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -146,12 +147,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527444296532</updated>
-      <workItem from="1527444298268" duration="1934000" />
+      <workItem from="1527444298268" duration="2564000" />
+      <workItem from="1527604789645" duration="64000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1934000" />
+    <option name="totallyTimeSpent" value="2628000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -165,8 +167,8 @@
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="6" />
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="6" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="1" />
@@ -177,14 +179,14 @@
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="right" id="Commander" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,8 +198,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="856">
+        <state relative-caret-position="16660">
           <caret line="833" column="68" selection-start-line="833" selection-start-column="68" selection-end-line="833" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="164" column="50" selection-start-line="164" selection-start-column="50" selection-end-line="164" selection-end-column="50" />
         </state>
       </provider>
     </entry>
